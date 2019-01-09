@@ -66,6 +66,7 @@ namespace _05
             {
                 snc = "Eşit";
             }
+            Console.WriteLine(snc);
             //e
 
             Console.WriteLine("Kenar uzunluklarını giriniz");
@@ -79,6 +80,7 @@ namespace _05
             }
             //f
             Console.WriteLine("Açı değerlerini girin");
+           
             int aci1, aci2, aci3;
             aci1 = int.Parse(Console.ReadLine());
             aci2 = int.Parse(Console.ReadLine());

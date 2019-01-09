@@ -31,9 +31,14 @@ namespace _03
                 Console.WriteLine("Eşit");
             }
             //c
+            
             char c3, c4;
-            c3 = Convert.ToChar(Console.ReadLine());
-            c4 = Convert.ToChar(Console.ReadLine());
+            string input;
+            Console.WriteLine("İki char girişi yapınız");
+            input = Console.ReadLine();
+            bool kontrol = char.TryParse(input, out c3);
+            input = Console.ReadLine();
+            kontrol = char.TryParse(input, out c4);
             if (c3==c4)
             {
                 Console.WriteLine("Eşit");

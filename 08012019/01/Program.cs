@@ -13,18 +13,23 @@ namespace _01
             //a
             string degisken = Console.ReadLine();
             //b
-            int degisken2 = int.Parse(Console.ReadLine());
+            int sayi;
+            string input = Console.ReadLine();
+            bool kontrol = int.TryParse(input, out sayi);
             //c
-            double degisken3 = Convert.ToInt64(Console.ReadLine());
+            double c;
+            input = Console.ReadLine();
+            kontrol = double.TryParse(input, out c);
             //d
+            input = Console.ReadLine();
             DateTime nesne = new DateTime();
-            nesne = Convert.ToDateTime(Console.ReadLine());
+            kontrol = DateTime.TryParse(input, out nesne);
             //e
             long degisken4 = 8888888888888888;
             int degisken5 = (int)degisken4;
             //f
-            int sayi = 5;
-            string degisken6 = Convert.ToString(sayi);
+            int f = 5;
+            string degisken6 = Convert.ToString(f);
         }
     }
 }
