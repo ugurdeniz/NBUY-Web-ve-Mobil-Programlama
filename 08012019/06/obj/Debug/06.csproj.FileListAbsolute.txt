@@ -1,0 +1,7 @@
+C:\Users\Section1\Documents\GitHub\NBUY-Web-ve-Mobil-Programlama\08012019\06\bin\Debug\06.exe.config
+C:\Users\Section1\Documents\GitHub\NBUY-Web-ve-Mobil-Programlama\08012019\06\bin\Debug\06.exe
+C:\Users\Section1\Documents\GitHub\NBUY-Web-ve-Mobil-Programlama\08012019\06\bin\Debug\06.pdb
+C:\Users\Section1\Documents\GitHub\NBUY-Web-ve-Mobil-Programlama\08012019\06\obj\Debug\06.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Documents\GitHub\NBUY-Web-ve-Mobil-Programlama\08012019\06\obj\Debug\06.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Documents\GitHub\NBUY-Web-ve-Mobil-Programlama\08012019\06\obj\Debug\06.exe
+C:\Users\Section1\Documents\GitHub\NBUY-Web-ve-Mobil-Programlama\08012019\06\obj\Debug\06.pdb

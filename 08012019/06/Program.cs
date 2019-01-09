@@ -10,9 +10,9 @@ namespace _06
     {
         static void Main(string[] args)
         {
-            string eb=10,ek=5,giris;
-            int sayi;
-            for (int i = 0; i < 9; i++)
+            string giris;
+            int eb=0,ek=999999999,sayi;
+            for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine("{0}. Sayıyı girin" + (i + 1));
                 giris = Console.ReadLine();
@@ -21,7 +21,11 @@ namespace _06
                 {
                     if (sayi>eb)
                     {
-
+                        eb = sayi;
+                    }
+                    if (sayi<ek)
+                    {
+                        ek = sayi;
                     }
                 }
                 else
@@ -30,6 +34,7 @@ namespace _06
                 }
                 
             }
+            Console.WriteLine("En büyük sayı= {0} \n En küçük sayı= {1}", eb, ek);
         }
     }
 }
