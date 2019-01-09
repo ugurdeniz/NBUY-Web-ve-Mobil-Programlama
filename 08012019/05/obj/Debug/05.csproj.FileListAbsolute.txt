@@ -1,0 +1,7 @@
+C:\Users\Section1\Desktop\08012019\05\bin\Debug\05.exe.config
+C:\Users\Section1\Desktop\08012019\05\bin\Debug\05.exe
+C:\Users\Section1\Desktop\08012019\05\bin\Debug\05.pdb
+C:\Users\Section1\Desktop\08012019\05\obj\Debug\05.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\08012019\05\obj\Debug\05.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\08012019\05\obj\Debug\05.exe
+C:\Users\Section1\Desktop\08012019\05\obj\Debug\05.pdb

@@ -1,0 +1,13 @@
+C:\Users\ugur\source\repos\08012019\02\bin\Debug\02.exe.config
+C:\Users\ugur\source\repos\08012019\02\bin\Debug\02.exe
+C:\Users\ugur\source\repos\08012019\02\bin\Debug\02.pdb
+C:\Users\ugur\source\repos\08012019\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\ugur\source\repos\08012019\02\obj\Debug\02.exe
+C:\Users\ugur\source\repos\08012019\02\obj\Debug\02.pdb
+C:\Users\Section1\Desktop\08012019\02\bin\Debug\02.exe.config
+C:\Users\Section1\Desktop\08012019\02\bin\Debug\02.exe
+C:\Users\Section1\Desktop\08012019\02\bin\Debug\02.pdb
+C:\Users\Section1\Desktop\08012019\02\obj\Debug\02.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\08012019\02\obj\Debug\02.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\08012019\02\obj\Debug\02.exe
+C:\Users\Section1\Desktop\08012019\02\obj\Debug\02.pdb
