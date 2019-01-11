@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\04_Operatorler\bin\Debug\04_Operatorler.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\04_Operatorler\bin\Debug\04_Operatorler.exe
+C:\Users\Section1\source\repos\ConsoleApps\04_Operatorler\bin\Debug\04_Operatorler.pdb
+C:\Users\Section1\source\repos\ConsoleApps\04_Operatorler\obj\Debug\04_Operatorler.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\04_Operatorler\obj\Debug\04_Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\04_Operatorler\obj\Debug\04_Operatorler.exe
+C:\Users\Section1\source\repos\ConsoleApps\04_Operatorler\obj\Debug\04_Operatorler.pdb

@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\06_IfElse\bin\Debug\06_IfElse.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\06_IfElse\bin\Debug\06_IfElse.exe
+C:\Users\Section1\source\repos\ConsoleApps\06_IfElse\bin\Debug\06_IfElse.pdb
+C:\Users\Section1\source\repos\ConsoleApps\06_IfElse\obj\Debug\06_IfElse.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\06_IfElse\obj\Debug\06_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\06_IfElse\obj\Debug\06_IfElse.exe
+C:\Users\Section1\source\repos\ConsoleApps\06_IfElse\obj\Debug\06_IfElse.pdb
