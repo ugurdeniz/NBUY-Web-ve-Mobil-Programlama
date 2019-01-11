@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\02_Degiskenler\bin\Debug\02_Degiskenler.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\02_Degiskenler\bin\Debug\02_Degiskenler.exe
+C:\Users\Section1\source\repos\ConsoleApps\02_Degiskenler\bin\Debug\02_Degiskenler.pdb
+C:\Users\Section1\source\repos\ConsoleApps\02_Degiskenler\obj\Debug\02_Degiskenler.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\02_Degiskenler\obj\Debug\02_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\02_Degiskenler\obj\Debug\02_Degiskenler.exe
+C:\Users\Section1\source\repos\ConsoleApps\02_Degiskenler\obj\Debug\02_Degiskenler.pdb

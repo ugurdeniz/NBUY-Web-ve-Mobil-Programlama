@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\bin\Debug\03_ConsoleReadAndWrite.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\bin\Debug\03_ConsoleReadAndWrite.exe
+C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\bin\Debug\03_ConsoleReadAndWrite.pdb
+C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.exe
+C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.pdb

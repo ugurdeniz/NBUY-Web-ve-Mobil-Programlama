@@ -1,0 +1,14 @@
+C:\Users\Section1\source\repos\ConsoleApps\11_NotHesaplamaUygulamasi\bin\Debug\11_NotHesaplamaUygulamasi.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\11_NotHesaplamaUygulamasi\bin\Debug\11_NotHesaplamaUygulamasi.exe
+C:\Users\Section1\source\repos\ConsoleApps\11_NotHesaplamaUygulamasi\bin\Debug\11_NotHesaplamaUygulamasi.pdb
+C:\Users\Section1\source\repos\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.exe
+C:\Users\Section1\source\repos\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.pdb
+C:\Users\ugur\Desktop\ConsoleApps\11_NotHesaplamaUygulamasi\bin\Debug\11_NotHesaplamaUygulamasi.exe.config
+C:\Users\ugur\Desktop\ConsoleApps\11_NotHesaplamaUygulamasi\bin\Debug\11_NotHesaplamaUygulamasi.exe
+C:\Users\ugur\Desktop\ConsoleApps\11_NotHesaplamaUygulamasi\bin\Debug\11_NotHesaplamaUygulamasi.pdb
+C:\Users\ugur\Desktop\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.exe
+C:\Users\ugur\Desktop\ConsoleApps\11_NotHesaplamaUygulamasi\obj\Debug\11_NotHesaplamaUygulamasi.pdb

@@ -1,0 +1,6 @@
+C:\Users\Section1\source\repos\ConsoleApps\05_Conversion\bin\Debug\05_Conversion.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\05_Conversion\bin\Debug\05_Conversion.exe
+C:\Users\Section1\source\repos\ConsoleApps\05_Conversion\bin\Debug\05_Conversion.pdb
+C:\Users\Section1\source\repos\ConsoleApps\05_Conversion\obj\Debug\05_Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\05_Conversion\obj\Debug\05_Conversion.exe
+C:\Users\Section1\source\repos\ConsoleApps\05_Conversion\obj\Debug\05_Conversion.pdb
