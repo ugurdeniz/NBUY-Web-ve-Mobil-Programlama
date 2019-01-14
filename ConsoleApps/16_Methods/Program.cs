@@ -13,10 +13,15 @@ namespace _16_Methods
         //void 
         //Geri Dönüşsüz Parametreli Metodlar
         //Geri Dönüşlü Parametreli Metodlar
+        
         static void Basla()
         {
 
         }
+        /// <summary>
+        /// Mesaj verir
+        /// </summary>
+        /// <param name="mesaj">Mesaj verilecek değeri girin</param>
         static void EkranaYaz(string mesaj)
         {
             Console.WriteLine(mesaj);
@@ -41,6 +46,7 @@ namespace _16_Methods
         {
             Basla();
             EkranaYaz();
+         
             EkranıDurdur();
             Bitir();
             
