@@ -62,7 +62,7 @@ namespace _02_Degiskenler
             //string char[]
             string alafortanfoni = "alafortanfoni";
             //object 
-            object sey = 45;
+            object sey = 45;            
             sey = "Alafortanfoni";
 
             //var 

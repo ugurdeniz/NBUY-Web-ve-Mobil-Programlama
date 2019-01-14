@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\10_SwitchCase\obj\Debug\10_SwitchCase.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\10_SwitchCase\obj\Debug\10_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\10_SwitchCase\bin\Debug\10_SwitchCase.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\10_SwitchCase\bin\Debug\10_SwitchCase.exe
+C:\Users\Section1\source\repos\ConsoleApps\10_SwitchCase\bin\Debug\10_SwitchCase.pdb
+C:\Users\Section1\source\repos\ConsoleApps\10_SwitchCase\obj\Debug\10_SwitchCase.exe
+C:\Users\Section1\source\repos\ConsoleApps\10_SwitchCase\obj\Debug\10_SwitchCase.pdb

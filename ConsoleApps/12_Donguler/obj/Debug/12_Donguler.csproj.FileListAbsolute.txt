@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\12_Donguler\bin\Debug\12_Donguler.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\12_Donguler\bin\Debug\12_Donguler.exe
+C:\Users\Section1\source\repos\ConsoleApps\12_Donguler\bin\Debug\12_Donguler.pdb
+C:\Users\Section1\source\repos\ConsoleApps\12_Donguler\obj\Debug\12_Donguler.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\12_Donguler\obj\Debug\12_Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\12_Donguler\obj\Debug\12_Donguler.exe
+C:\Users\Section1\source\repos\ConsoleApps\12_Donguler\obj\Debug\12_Donguler.pdb

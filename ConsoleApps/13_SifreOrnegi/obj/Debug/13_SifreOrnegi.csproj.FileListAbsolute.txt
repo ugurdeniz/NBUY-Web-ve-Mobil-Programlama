@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\13_SifreOrnegi\bin\Debug\13_SifreOrnegi.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\13_SifreOrnegi\bin\Debug\13_SifreOrnegi.exe
+C:\Users\Section1\source\repos\ConsoleApps\13_SifreOrnegi\bin\Debug\13_SifreOrnegi.pdb
+C:\Users\Section1\source\repos\ConsoleApps\13_SifreOrnegi\obj\Debug\13_SifreOrnegi.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\13_SifreOrnegi\obj\Debug\13_SifreOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\13_SifreOrnegi\obj\Debug\13_SifreOrnegi.exe
+C:\Users\Section1\source\repos\ConsoleApps\13_SifreOrnegi\obj\Debug\13_SifreOrnegi.pdb

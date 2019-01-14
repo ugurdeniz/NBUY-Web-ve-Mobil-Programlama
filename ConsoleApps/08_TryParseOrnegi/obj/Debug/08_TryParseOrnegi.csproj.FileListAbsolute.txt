@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\08_TryParseOrnegi\bin\Debug\08_TryParseOrnegi.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\08_TryParseOrnegi\bin\Debug\08_TryParseOrnegi.exe
+C:\Users\Section1\source\repos\ConsoleApps\08_TryParseOrnegi\bin\Debug\08_TryParseOrnegi.pdb
+C:\Users\Section1\source\repos\ConsoleApps\08_TryParseOrnegi\obj\Debug\08_TryParseOrnegi.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\08_TryParseOrnegi\obj\Debug\08_TryParseOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\08_TryParseOrnegi\obj\Debug\08_TryParseOrnegi.exe
+C:\Users\Section1\source\repos\ConsoleApps\08_TryParseOrnegi\obj\Debug\08_TryParseOrnegi.pdb

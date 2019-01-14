@@ -1,0 +1,7 @@
+C:\Users\Section1\source\repos\ConsoleApps\14_Diziler\bin\Debug\14_Diziler.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\14_Diziler\bin\Debug\14_Diziler.exe
+C:\Users\Section1\source\repos\ConsoleApps\14_Diziler\bin\Debug\14_Diziler.pdb
+C:\Users\Section1\source\repos\ConsoleApps\14_Diziler\obj\Debug\14_Diziler.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\14_Diziler\obj\Debug\14_Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\14_Diziler\obj\Debug\14_Diziler.exe
+C:\Users\Section1\source\repos\ConsoleApps\14_Diziler\obj\Debug\14_Diziler.pdb

@@ -32,8 +32,6 @@ namespace _03_ConsoleReadAndWrite
             Console.WriteLine(DateTime.Now.ToString());
             Console.ReadLine();
 
-
-
         }
     }
 }
