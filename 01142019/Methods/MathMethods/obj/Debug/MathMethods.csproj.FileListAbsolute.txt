@@ -1,0 +1,7 @@
+C:\Users\ugur\Desktop\Methods\MathMethods\bin\Debug\MathMethods.exe.config
+C:\Users\ugur\Desktop\Methods\MathMethods\bin\Debug\MathMethods.exe
+C:\Users\ugur\Desktop\Methods\MathMethods\bin\Debug\MathMethods.pdb
+C:\Users\ugur\Desktop\Methods\MathMethods\obj\Debug\MathMethods.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\Methods\MathMethods\obj\Debug\MathMethods.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\Methods\MathMethods\obj\Debug\MathMethods.exe
+C:\Users\ugur\Desktop\Methods\MathMethods\obj\Debug\MathMethods.pdb

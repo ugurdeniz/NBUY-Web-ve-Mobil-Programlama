@@ -1,0 +1,7 @@
+C:\Users\ugur\Desktop\Methods\DateMethods\bin\Debug\DateMethods.exe.config
+C:\Users\ugur\Desktop\Methods\DateMethods\bin\Debug\DateMethods.exe
+C:\Users\ugur\Desktop\Methods\DateMethods\bin\Debug\DateMethods.pdb
+C:\Users\ugur\Desktop\Methods\DateMethods\obj\Debug\DateMethods.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\Methods\DateMethods\obj\Debug\DateMethods.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\Methods\DateMethods\obj\Debug\DateMethods.exe
+C:\Users\ugur\Desktop\Methods\DateMethods\obj\Debug\DateMethods.pdb
