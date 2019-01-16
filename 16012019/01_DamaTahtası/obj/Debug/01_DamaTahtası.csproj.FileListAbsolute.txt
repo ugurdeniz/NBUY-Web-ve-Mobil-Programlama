@@ -1,0 +1,7 @@
+C:\Users\Section1\Desktop\16012019\01_DamaTahtası\bin\Debug\01_DamaTahtası.exe.config
+C:\Users\Section1\Desktop\16012019\01_DamaTahtası\bin\Debug\01_DamaTahtası.exe
+C:\Users\Section1\Desktop\16012019\01_DamaTahtası\bin\Debug\01_DamaTahtası.pdb
+C:\Users\Section1\Desktop\16012019\01_DamaTahtası\obj\Debug\01_DamaTahtası.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\16012019\01_DamaTahtası\obj\Debug\01_DamaTahtası.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\16012019\01_DamaTahtası\obj\Debug\01_DamaTahtası.exe
+C:\Users\Section1\Desktop\16012019\01_DamaTahtası\obj\Debug\01_DamaTahtası.pdb

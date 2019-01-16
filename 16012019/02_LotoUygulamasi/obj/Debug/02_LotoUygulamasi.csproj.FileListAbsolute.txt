@@ -1,0 +1,7 @@
+C:\Users\Section1\Desktop\16012019\02_LotoUygulamasi\bin\Debug\02_LotoUygulamasi.exe.config
+C:\Users\Section1\Desktop\16012019\02_LotoUygulamasi\bin\Debug\02_LotoUygulamasi.exe
+C:\Users\Section1\Desktop\16012019\02_LotoUygulamasi\bin\Debug\02_LotoUygulamasi.pdb
+C:\Users\Section1\Desktop\16012019\02_LotoUygulamasi\obj\Debug\02_LotoUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Section1\Desktop\16012019\02_LotoUygulamasi\obj\Debug\02_LotoUygulamasi.exe
+C:\Users\Section1\Desktop\16012019\02_LotoUygulamasi\obj\Debug\02_LotoUygulamasi.pdb
+C:\Users\Section1\Desktop\16012019\02_LotoUygulamasi\obj\Debug\02_LotoUygulamasi.csprojResolveAssemblyReference.cache
