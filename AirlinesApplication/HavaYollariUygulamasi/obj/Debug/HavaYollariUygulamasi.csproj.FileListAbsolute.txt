@@ -1,0 +1,7 @@
+C:\Users\ugur\Desktop\01152019\HavaYollariUygulamasi\obj\Debug\HavaYollariUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\ugur\Desktop\01152019\HavaYollariUygulamasi\obj\Debug\HavaYollariUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ugur\Desktop\01152019\HavaYollariUygulamasi\bin\Debug\HavaYollariUygulamasi.exe.config
+C:\Users\ugur\Desktop\01152019\HavaYollariUygulamasi\bin\Debug\HavaYollariUygulamasi.exe
+C:\Users\ugur\Desktop\01152019\HavaYollariUygulamasi\bin\Debug\HavaYollariUygulamasi.pdb
+C:\Users\ugur\Desktop\01152019\HavaYollariUygulamasi\obj\Debug\HavaYollariUygulamasi.exe
+C:\Users\ugur\Desktop\01152019\HavaYollariUygulamasi\obj\Debug\HavaYollariUygulamasi.pdb
