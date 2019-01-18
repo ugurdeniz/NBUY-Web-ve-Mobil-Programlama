@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\ConsoleApps\26_Ornekler\bin\Debug\26_Ornekler.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\26_Ornekler\bin\Debug\26_Ornekler.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\26_Ornekler\bin\Debug\26_Ornekler.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\26_Ornekler\obj\Debug\26_Ornekler.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\26_Ornekler\obj\Debug\26_Ornekler.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\26_Ornekler\obj\Debug\26_Ornekler.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\26_Ornekler\obj\Debug\26_Ornekler.csprojResolveAssemblyReference.cache

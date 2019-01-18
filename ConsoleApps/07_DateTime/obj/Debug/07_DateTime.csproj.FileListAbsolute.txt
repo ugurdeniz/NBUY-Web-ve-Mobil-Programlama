@@ -4,3 +4,9 @@ C:\Users\Section1\source\repos\ConsoleApps\07_DateTime\bin\Debug\07_DateTime.pdb
 C:\Users\Section1\source\repos\ConsoleApps\07_DateTime\obj\Debug\07_DateTime.csproj.CoreCompileInputs.cache
 C:\Users\Section1\source\repos\ConsoleApps\07_DateTime\obj\Debug\07_DateTime.exe
 C:\Users\Section1\source\repos\ConsoleApps\07_DateTime\obj\Debug\07_DateTime.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\07_DateTime\bin\Debug\07_DateTime.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\07_DateTime\bin\Debug\07_DateTime.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\07_DateTime\bin\Debug\07_DateTime.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\07_DateTime\obj\Debug\07_DateTime.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\07_DateTime\obj\Debug\07_DateTime.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\07_DateTime\obj\Debug\07_DateTime.pdb

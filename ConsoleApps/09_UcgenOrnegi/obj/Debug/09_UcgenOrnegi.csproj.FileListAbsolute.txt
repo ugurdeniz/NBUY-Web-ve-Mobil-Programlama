@@ -1,7 +1,12 @@
 C:\Users\Section1\source\repos\ConsoleApps\09_UcgenOrnegi\bin\Debug\09_UcgenOrnegi.exe.config
 C:\Users\Section1\source\repos\ConsoleApps\09_UcgenOrnegi\bin\Debug\09_UcgenOrnegi.exe
 C:\Users\Section1\source\repos\ConsoleApps\09_UcgenOrnegi\bin\Debug\09_UcgenOrnegi.pdb
-C:\Users\Section1\source\repos\ConsoleApps\09_UcgenOrnegi\obj\Debug\09_UcgenOrnegi.csprojResolveAssemblyReference.cache
 C:\Users\Section1\source\repos\ConsoleApps\09_UcgenOrnegi\obj\Debug\09_UcgenOrnegi.csproj.CoreCompileInputs.cache
 C:\Users\Section1\source\repos\ConsoleApps\09_UcgenOrnegi\obj\Debug\09_UcgenOrnegi.exe
 C:\Users\Section1\source\repos\ConsoleApps\09_UcgenOrnegi\obj\Debug\09_UcgenOrnegi.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\09_UcgenOrnegi\bin\Debug\09_UcgenOrnegi.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\09_UcgenOrnegi\bin\Debug\09_UcgenOrnegi.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\09_UcgenOrnegi\bin\Debug\09_UcgenOrnegi.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\09_UcgenOrnegi\obj\Debug\09_UcgenOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\09_UcgenOrnegi\obj\Debug\09_UcgenOrnegi.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\09_UcgenOrnegi\obj\Debug\09_UcgenOrnegi.pdb

@@ -1,0 +1,13 @@
+C:\Users\Section1\source\repos\ConsoleApps\18_SayiSiralamaOrnegi\bin\Debug\18_SayiSiralamaOrnegi.exe.config
+C:\Users\Section1\source\repos\ConsoleApps\18_SayiSiralamaOrnegi\bin\Debug\18_SayiSiralamaOrnegi.exe
+C:\Users\Section1\source\repos\ConsoleApps\18_SayiSiralamaOrnegi\bin\Debug\18_SayiSiralamaOrnegi.pdb
+C:\Users\Section1\source\repos\ConsoleApps\18_SayiSiralamaOrnegi\obj\Debug\18_SayiSiralamaOrnegi.csprojResolveAssemblyReference.cache
+C:\Users\Section1\source\repos\ConsoleApps\18_SayiSiralamaOrnegi\obj\Debug\18_SayiSiralamaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Section1\source\repos\ConsoleApps\18_SayiSiralamaOrnegi\obj\Debug\18_SayiSiralamaOrnegi.exe
+C:\Users\Section1\source\repos\ConsoleApps\18_SayiSiralamaOrnegi\obj\Debug\18_SayiSiralamaOrnegi.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\18_SayiSiralamaOrnegi\bin\Debug\18_SayiSiralamaOrnegi.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\18_SayiSiralamaOrnegi\bin\Debug\18_SayiSiralamaOrnegi.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\18_SayiSiralamaOrnegi\bin\Debug\18_SayiSiralamaOrnegi.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\18_SayiSiralamaOrnegi\obj\Debug\18_SayiSiralamaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\18_SayiSiralamaOrnegi\obj\Debug\18_SayiSiralamaOrnegi.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\18_SayiSiralamaOrnegi\obj\Debug\18_SayiSiralamaOrnegi.pdb

@@ -1,7 +1,12 @@
 C:\Users\Section1\source\repos\ConsoleApps\15_NotHesaplamaUygulamasi2\bin\Debug\15_NotHesaplamaUygulamasi2.exe.config
 C:\Users\Section1\source\repos\ConsoleApps\15_NotHesaplamaUygulamasi2\bin\Debug\15_NotHesaplamaUygulamasi2.exe
 C:\Users\Section1\source\repos\ConsoleApps\15_NotHesaplamaUygulamasi2\bin\Debug\15_NotHesaplamaUygulamasi2.pdb
-C:\Users\Section1\source\repos\ConsoleApps\15_NotHesaplamaUygulamasi2\obj\Debug\15_NotHesaplamaUygulamasi2.csprojResolveAssemblyReference.cache
 C:\Users\Section1\source\repos\ConsoleApps\15_NotHesaplamaUygulamasi2\obj\Debug\15_NotHesaplamaUygulamasi2.csproj.CoreCompileInputs.cache
 C:\Users\Section1\source\repos\ConsoleApps\15_NotHesaplamaUygulamasi2\obj\Debug\15_NotHesaplamaUygulamasi2.exe
 C:\Users\Section1\source\repos\ConsoleApps\15_NotHesaplamaUygulamasi2\obj\Debug\15_NotHesaplamaUygulamasi2.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\15_NotHesaplamaUygulamasi2\bin\Debug\15_NotHesaplamaUygulamasi2.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\15_NotHesaplamaUygulamasi2\bin\Debug\15_NotHesaplamaUygulamasi2.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\15_NotHesaplamaUygulamasi2\bin\Debug\15_NotHesaplamaUygulamasi2.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\15_NotHesaplamaUygulamasi2\obj\Debug\15_NotHesaplamaUygulamasi2.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\15_NotHesaplamaUygulamasi2\obj\Debug\15_NotHesaplamaUygulamasi2.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\15_NotHesaplamaUygulamasi2\obj\Debug\15_NotHesaplamaUygulamasi2.pdb

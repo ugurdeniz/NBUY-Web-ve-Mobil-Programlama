@@ -1,0 +1,13 @@
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\25_StringMetotları\bin\Debug\25_StringMetotları.exe.config
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\25_StringMetotları\bin\Debug\25_StringMetotları.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\25_StringMetotları\bin\Debug\25_StringMetotları.pdb
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\25_StringMetotları\obj\Debug\25_StringMetotları.csprojAssemblyReference.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\25_StringMetotları\obj\Debug\25_StringMetotları.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\25_StringMetotları\obj\Debug\25_StringMetotları.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\25_StringMetotları\obj\Debug\25_StringMetotları.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\25_StringMetotları\bin\Debug\25_StringMetotları.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\25_StringMetotları\bin\Debug\25_StringMetotları.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\25_StringMetotları\bin\Debug\25_StringMetotları.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\25_StringMetotları\obj\Debug\25_StringMetotları.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\25_StringMetotları\obj\Debug\25_StringMetotları.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\25_StringMetotları\obj\Debug\25_StringMetotları.pdb

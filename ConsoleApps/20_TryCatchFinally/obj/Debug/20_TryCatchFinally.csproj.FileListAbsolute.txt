@@ -1,0 +1,6 @@
+C:\Users\osmanyazici\Desktop\ConsoleApps\20_TryCatchFinally\bin\Debug\20_TryCatchFinally.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\20_TryCatchFinally\bin\Debug\20_TryCatchFinally.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\20_TryCatchFinally\bin\Debug\20_TryCatchFinally.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\20_TryCatchFinally\obj\Debug\20_TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\20_TryCatchFinally\obj\Debug\20_TryCatchFinally.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\20_TryCatchFinally\obj\Debug\20_TryCatchFinally.pdb

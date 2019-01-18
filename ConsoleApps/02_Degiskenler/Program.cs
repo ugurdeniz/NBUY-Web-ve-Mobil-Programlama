@@ -75,6 +75,11 @@ namespace _02_Degiskenler
            DateTime suAn= DateTime.Now;
 
             int @int;
+
+            //Const
+            const int alafor = 5;
+            int toplam = alafor + 4; //=>int toplam=5+4;
+            const string bakanlikYetkisiGuid = "39dbe7b1-fb58-42be-bbd9-dc6d26e137ae";
         }
 
         /// <summary>

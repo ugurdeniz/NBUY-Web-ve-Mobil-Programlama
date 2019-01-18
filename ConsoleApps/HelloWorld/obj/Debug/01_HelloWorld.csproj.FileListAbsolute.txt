@@ -4,3 +4,10 @@ C:\Users\Section1\source\repos\ConsoleApps\HelloWorld\bin\Debug\HelloWorld.pdb
 C:\Users\Section1\source\repos\ConsoleApps\HelloWorld\obj\Debug\01_HelloWorld.csproj.CoreCompileInputs.cache
 C:\Users\Section1\source\repos\ConsoleApps\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\Section1\source\repos\ConsoleApps\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\Section1\source\repos\ConsoleApps\HelloWorld\obj\Debug\01_HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\HelloWorld\obj\Debug\01_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\HelloWorld\obj\Debug\HelloWorld.pdb
