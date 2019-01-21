@@ -5,3 +5,9 @@ C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_C
 C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.csproj.CoreCompileInputs.cache
 C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.exe
 C:\Users\Section1\source\repos\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\03_ConsoleReadAndWrite\bin\Debug\03_ConsoleReadAndWrite.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\03_ConsoleReadAndWrite\bin\Debug\03_ConsoleReadAndWrite.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\03_ConsoleReadAndWrite\bin\Debug\03_ConsoleReadAndWrite.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\03_ConsoleReadAndWrite\obj\Debug\03_ConsoleReadAndWrite.pdb

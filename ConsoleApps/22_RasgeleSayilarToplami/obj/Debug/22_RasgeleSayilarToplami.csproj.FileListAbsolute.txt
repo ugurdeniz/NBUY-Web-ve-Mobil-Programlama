@@ -1,0 +1,13 @@
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\22_RasgeleSayilarToplami\bin\Debug\22_RasgeleSayilarToplami.exe.config
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\22_RasgeleSayilarToplami\bin\Debug\22_RasgeleSayilarToplami.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\22_RasgeleSayilarToplami\bin\Debug\22_RasgeleSayilarToplami.pdb
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\22_RasgeleSayilarToplami\obj\Debug\22_RasgeleSayilarToplami.csprojAssemblyReference.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\22_RasgeleSayilarToplami\obj\Debug\22_RasgeleSayilarToplami.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\22_RasgeleSayilarToplami\obj\Debug\22_RasgeleSayilarToplami.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\22_RasgeleSayilarToplami\obj\Debug\22_RasgeleSayilarToplami.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\22_RasgeleSayilarToplami\bin\Debug\22_RasgeleSayilarToplami.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\22_RasgeleSayilarToplami\bin\Debug\22_RasgeleSayilarToplami.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\22_RasgeleSayilarToplami\bin\Debug\22_RasgeleSayilarToplami.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\22_RasgeleSayilarToplami\obj\Debug\22_RasgeleSayilarToplami.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\22_RasgeleSayilarToplami\obj\Debug\22_RasgeleSayilarToplami.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\22_RasgeleSayilarToplami\obj\Debug\22_RasgeleSayilarToplami.pdb

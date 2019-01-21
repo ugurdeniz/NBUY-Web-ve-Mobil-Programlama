@@ -1,0 +1,13 @@
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\24_DateFonksiyonlari\bin\Debug\24_DateFonksiyonlari.exe.config
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\24_DateFonksiyonlari\bin\Debug\24_DateFonksiyonlari.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\24_DateFonksiyonlari\bin\Debug\24_DateFonksiyonlari.pdb
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\24_DateFonksiyonlari\obj\Debug\24_DateFonksiyonlari.csprojAssemblyReference.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\24_DateFonksiyonlari\obj\Debug\24_DateFonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\24_DateFonksiyonlari\obj\Debug\24_DateFonksiyonlari.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\24_DateFonksiyonlari\obj\Debug\24_DateFonksiyonlari.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\24_DateFonksiyonlari\bin\Debug\24_DateFonksiyonlari.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\24_DateFonksiyonlari\bin\Debug\24_DateFonksiyonlari.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\24_DateFonksiyonlari\bin\Debug\24_DateFonksiyonlari.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\24_DateFonksiyonlari\obj\Debug\24_DateFonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\24_DateFonksiyonlari\obj\Debug\24_DateFonksiyonlari.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\24_DateFonksiyonlari\obj\Debug\24_DateFonksiyonlari.pdb

@@ -1,0 +1,7 @@
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\MathFonksiyonlari\bin\Debug\MathFonksiyonlari.exe.config
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\MathFonksiyonlari\bin\Debug\MathFonksiyonlari.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\MathFonksiyonlari\bin\Debug\MathFonksiyonlari.pdb
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\MathFonksiyonlari\obj\Debug\MathFonksiyonlari.csprojAssemblyReference.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\MathFonksiyonlari\obj\Debug\MathFonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\MathFonksiyonlari\obj\Debug\MathFonksiyonlari.exe
+C:\Users\osman\OneDrive\Vissen\2019\304_20190107\Ortak\ConsoleApps\MathFonksiyonlari\obj\Debug\MathFonksiyonlari.pdb

@@ -1,0 +1,6 @@
+C:\Users\osmanyazici\Desktop\ConsoleApps\MathFonksiyonlari\bin\Debug\MathFonksiyonlari.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\MathFonksiyonlari\bin\Debug\MathFonksiyonlari.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\MathFonksiyonlari\bin\Debug\MathFonksiyonlari.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\MathFonksiyonlari\obj\Debug\23_MathFonksiyonlari.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\MathFonksiyonlari\obj\Debug\MathFonksiyonlari.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\MathFonksiyonlari\obj\Debug\MathFonksiyonlari.pdb

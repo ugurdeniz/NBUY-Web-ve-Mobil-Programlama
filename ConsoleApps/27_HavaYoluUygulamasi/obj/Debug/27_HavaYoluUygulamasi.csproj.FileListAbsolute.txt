@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\ConsoleApps\27_HavaYoluUygulamasi\bin\Debug\27_HavaYoluUygulamasi.exe.config
+C:\Users\osmanyazici\Desktop\ConsoleApps\27_HavaYoluUygulamasi\bin\Debug\27_HavaYoluUygulamasi.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\27_HavaYoluUygulamasi\bin\Debug\27_HavaYoluUygulamasi.pdb
+C:\Users\osmanyazici\Desktop\ConsoleApps\27_HavaYoluUygulamasi\obj\Debug\27_HavaYoluUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\27_HavaYoluUygulamasi\obj\Debug\27_HavaYoluUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\ConsoleApps\27_HavaYoluUygulamasi\obj\Debug\27_HavaYoluUygulamasi.exe
+C:\Users\osmanyazici\Desktop\ConsoleApps\27_HavaYoluUygulamasi\obj\Debug\27_HavaYoluUygulamasi.pdb
