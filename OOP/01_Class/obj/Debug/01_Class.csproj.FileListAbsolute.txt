@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\source\repos\OOP\01_Class\obj\Debug\01_Class.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\source\repos\OOP\01_Class\bin\Debug\01_Class.exe.config
+C:\Users\osmanyazici\source\repos\OOP\01_Class\bin\Debug\01_Class.exe
+C:\Users\osmanyazici\source\repos\OOP\01_Class\bin\Debug\01_Class.pdb
+C:\Users\osmanyazici\source\repos\OOP\01_Class\obj\Debug\01_Class.exe
+C:\Users\osmanyazici\source\repos\OOP\01_Class\obj\Debug\01_Class.pdb
+C:\Users\osmanyazici\source\repos\OOP\01_Class\obj\Debug\01_Class.csprojResolveAssemblyReference.cache

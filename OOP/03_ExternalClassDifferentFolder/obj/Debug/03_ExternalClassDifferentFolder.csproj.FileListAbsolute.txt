@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\source\repos\OOP\03_ExternalClassDifferentFolder\bin\Debug\03_ExternalClassDifferentFolder.exe.config
+C:\Users\osmanyazici\source\repos\OOP\03_ExternalClassDifferentFolder\bin\Debug\03_ExternalClassDifferentFolder.exe
+C:\Users\osmanyazici\source\repos\OOP\03_ExternalClassDifferentFolder\bin\Debug\03_ExternalClassDifferentFolder.pdb
+C:\Users\osmanyazici\source\repos\OOP\03_ExternalClassDifferentFolder\obj\Debug\03_ExternalClassDifferentFolder.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\source\repos\OOP\03_ExternalClassDifferentFolder\obj\Debug\03_ExternalClassDifferentFolder.exe
+C:\Users\osmanyazici\source\repos\OOP\03_ExternalClassDifferentFolder\obj\Debug\03_ExternalClassDifferentFolder.pdb
+C:\Users\osmanyazici\source\repos\OOP\03_ExternalClassDifferentFolder\obj\Debug\03_ExternalClassDifferentFolder.csprojResolveAssemblyReference.cache

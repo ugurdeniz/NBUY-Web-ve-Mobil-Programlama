@@ -1,0 +1,11 @@
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\bin\Debug\04_ExternalClassDifferentProject.exe.config
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\bin\Debug\04_ExternalClassDifferentProject.exe
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\bin\Debug\04_ExternalClassDifferentProject.pdb
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\bin\Debug\01_Class.exe
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\bin\Debug\01_Class.pdb
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\bin\Debug\01_Class.exe.config
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\obj\Debug\04_ExternalClassDifferentProject.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\obj\Debug\04_ExternalClassDifferentProject.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\obj\Debug\04_ExternalClassDifferentProject.csproj.CopyComplete
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\obj\Debug\04_ExternalClassDifferentProject.exe
+C:\Users\osmanyazici\source\repos\OOP\04_ExternalClassDifferentProject\obj\Debug\04_ExternalClassDifferentProject.pdb

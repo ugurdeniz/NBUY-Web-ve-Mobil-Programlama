@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\source\repos\OOP\05_Constructor\bin\Debug\05_Constructor.exe.config
+C:\Users\osmanyazici\source\repos\OOP\05_Constructor\bin\Debug\05_Constructor.exe
+C:\Users\osmanyazici\source\repos\OOP\05_Constructor\bin\Debug\05_Constructor.pdb
+C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.exe
+C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.pdb
