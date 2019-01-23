@@ -4,3 +4,9 @@ C:\Users\osmanyazici\source\repos\OOP\06_Deconstructor\bin\Debug\06_Destructor.p
 C:\Users\osmanyazici\source\repos\OOP\06_Deconstructor\obj\Debug\06_Destructor.csproj.CoreCompileInputs.cache
 C:\Users\osmanyazici\source\repos\OOP\06_Deconstructor\obj\Debug\06_Destructor.exe
 C:\Users\osmanyazici\source\repos\OOP\06_Deconstructor\obj\Debug\06_Destructor.pdb
+C:\Users\osmanyazici\Desktop\OOP\06_Deconstructor\bin\Debug\06_Destructor.exe.config
+C:\Users\osmanyazici\Desktop\OOP\06_Deconstructor\bin\Debug\06_Destructor.exe
+C:\Users\osmanyazici\Desktop\OOP\06_Deconstructor\bin\Debug\06_Destructor.pdb
+C:\Users\osmanyazici\Desktop\OOP\06_Deconstructor\obj\Debug\06_Destructor.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\06_Deconstructor\obj\Debug\06_Destructor.exe
+C:\Users\osmanyazici\Desktop\OOP\06_Deconstructor\obj\Debug\06_Destructor.pdb

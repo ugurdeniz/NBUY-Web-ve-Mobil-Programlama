@@ -16,7 +16,7 @@ namespace _07_Field
             Ucgen ucgen = new Ucgen(3, 4, 5);
            Console.WriteLine(Insan._globalIfade);
             Insan insan = new Insan();
-            
+            Helper.Topla(3,6);
         }
     }
 
@@ -41,6 +41,12 @@ namespace _07_Field
 
     class Insan
     {
+
+        //değişken ile farkları
+        //Ramdeki yeri (heap)
+        //Canlılık süresi (nesne canlı olduğu sürece)
+        //Kullanım mantığı (nesne canlı olduğu sürece unutulmayan nesnenin bir bilgisi)
+
       public static string _globalIfade = "Alafortanfoni"; //global ifade
         public string _ad;
         public int _yas;
@@ -60,6 +66,14 @@ namespace _07_Field
         void Uyan()
         {
 
+        }
+    }
+
+    class Helper
+    {
+        public static int Topla(int birinciSayi,int ikinciSayi)
+        {
+            return birinciSayi + ikinciSayi;
         }
     }
 

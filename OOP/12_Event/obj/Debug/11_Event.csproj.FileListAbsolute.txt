@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\OOP\11_Event\bin\Debug\11_Event.exe.config
+C:\Users\osmanyazici\Desktop\OOP\11_Event\bin\Debug\11_Event.exe
+C:\Users\osmanyazici\Desktop\OOP\11_Event\bin\Debug\11_Event.pdb
+C:\Users\osmanyazici\Desktop\OOP\11_Event\obj\Debug\11_Event.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\OOP\11_Event\obj\Debug\11_Event.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\11_Event\obj\Debug\11_Event.exe
+C:\Users\osmanyazici\Desktop\OOP\11_Event\obj\Debug\11_Event.pdb

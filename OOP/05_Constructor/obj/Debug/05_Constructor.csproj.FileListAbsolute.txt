@@ -5,3 +5,9 @@ C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.cs
 C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.csproj.CoreCompileInputs.cache
 C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.exe
 C:\Users\osmanyazici\source\repos\OOP\05_Constructor\obj\Debug\05_Constructor.pdb
+C:\Users\osmanyazici\Desktop\OOP\05_Constructor\bin\Debug\05_Constructor.exe.config
+C:\Users\osmanyazici\Desktop\OOP\05_Constructor\bin\Debug\05_Constructor.exe
+C:\Users\osmanyazici\Desktop\OOP\05_Constructor\bin\Debug\05_Constructor.pdb
+C:\Users\osmanyazici\Desktop\OOP\05_Constructor\obj\Debug\05_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\05_Constructor\obj\Debug\05_Constructor.exe
+C:\Users\osmanyazici\Desktop\OOP\05_Constructor\obj\Debug\05_Constructor.pdb

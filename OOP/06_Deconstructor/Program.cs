@@ -10,6 +10,7 @@ namespace _06_Destructor
     {
         static void Main(string[] args)
         {
+            Dolap yeniDolap = new Dolap();
         }
     }
 

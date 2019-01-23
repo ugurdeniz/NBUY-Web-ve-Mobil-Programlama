@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\OOP\13_Polymorphism\bin\Debug\13_Polymorphism.exe.config
+C:\Users\osmanyazici\Desktop\OOP\13_Polymorphism\bin\Debug\13_Polymorphism.exe
+C:\Users\osmanyazici\Desktop\OOP\13_Polymorphism\bin\Debug\13_Polymorphism.pdb
+C:\Users\osmanyazici\Desktop\OOP\13_Polymorphism\obj\Debug\13_Polymorphism.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\OOP\13_Polymorphism\obj\Debug\13_Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\13_Polymorphism\obj\Debug\13_Polymorphism.exe
+C:\Users\osmanyazici\Desktop\OOP\13_Polymorphism\obj\Debug\13_Polymorphism.pdb

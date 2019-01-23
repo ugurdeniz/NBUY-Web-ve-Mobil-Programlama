@@ -13,7 +13,7 @@ namespace _03_ExternalClassDifferentFolder
     {
         static void Main(string[] args)
         {
-            Dolap dolap = new Dolap();
+            //Dolap dolap = new Dolap();
             Masa masa = new Masa();
             Sandalye.Sandalye sandalye = new Sandalye.Sandalye();
             Oda oda = new Oda();          

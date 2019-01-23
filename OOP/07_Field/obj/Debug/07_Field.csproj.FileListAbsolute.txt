@@ -1,0 +1,6 @@
+C:\Users\osmanyazici\Desktop\OOP\07_Field\bin\Debug\07_Field.exe.config
+C:\Users\osmanyazici\Desktop\OOP\07_Field\bin\Debug\07_Field.exe
+C:\Users\osmanyazici\Desktop\OOP\07_Field\bin\Debug\07_Field.pdb
+C:\Users\osmanyazici\Desktop\OOP\07_Field\obj\Debug\07_Field.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\07_Field\obj\Debug\07_Field.exe
+C:\Users\osmanyazici\Desktop\OOP\07_Field\obj\Debug\07_Field.pdb

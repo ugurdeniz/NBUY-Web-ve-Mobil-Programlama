@@ -1,0 +1,6 @@
+C:\Users\osmanyazici\Desktop\OOP\08_Inheritance\obj\Debug\08_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\08_Inheritance\bin\Debug\08_Inheritance.exe.config
+C:\Users\osmanyazici\Desktop\OOP\08_Inheritance\bin\Debug\08_Inheritance.exe
+C:\Users\osmanyazici\Desktop\OOP\08_Inheritance\bin\Debug\08_Inheritance.pdb
+C:\Users\osmanyazici\Desktop\OOP\08_Inheritance\obj\Debug\08_Inheritance.exe
+C:\Users\osmanyazici\Desktop\OOP\08_Inheritance\obj\Debug\08_Inheritance.pdb
