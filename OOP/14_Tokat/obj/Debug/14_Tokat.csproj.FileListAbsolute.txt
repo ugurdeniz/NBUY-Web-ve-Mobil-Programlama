@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\OOP\14_Tokat\bin\Debug\14_Tokat.exe.config
+C:\Users\osmanyazici\Desktop\OOP\14_Tokat\bin\Debug\14_Tokat.exe
+C:\Users\osmanyazici\Desktop\OOP\14_Tokat\bin\Debug\14_Tokat.pdb
+C:\Users\osmanyazici\Desktop\OOP\14_Tokat\obj\Debug\14_Tokat.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\OOP\14_Tokat\obj\Debug\14_Tokat.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\14_Tokat\obj\Debug\14_Tokat.exe
+C:\Users\osmanyazici\Desktop\OOP\14_Tokat\obj\Debug\14_Tokat.pdb

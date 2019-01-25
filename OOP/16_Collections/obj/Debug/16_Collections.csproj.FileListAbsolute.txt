@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\OOP\16_Collections\bin\Debug\16_Collections.exe.config
+C:\Users\osmanyazici\Desktop\OOP\16_Collections\bin\Debug\16_Collections.exe
+C:\Users\osmanyazici\Desktop\OOP\16_Collections\bin\Debug\16_Collections.pdb
+C:\Users\osmanyazici\Desktop\OOP\16_Collections\obj\Debug\16_Collections.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\OOP\16_Collections\obj\Debug\16_Collections.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\16_Collections\obj\Debug\16_Collections.exe
+C:\Users\osmanyazici\Desktop\OOP\16_Collections\obj\Debug\16_Collections.pdb

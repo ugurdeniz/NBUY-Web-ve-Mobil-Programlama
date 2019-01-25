@@ -11,14 +11,15 @@ namespace _13_Polymorphism
         static void Main(string[] args)
         {
             Hayvan hayvan = new Hayvan();
-            TanitVeSesVer(hayvan);
-            
+            TanitVeSesVer(hayvan);            
 
             Hayvan kus = new Kus();
             TanitVeSesVer(kus);
 
             Hayvan kedi = new Kedi();
+            kedi.Yas = 21;
             TanitVeSesVer(kedi);
+           
 
             Hayvan zurafa = new Zurafa();
             TanitVeSesVer(zurafa);
@@ -36,6 +37,7 @@ namespace _13_Polymorphism
         {
             Console.Write("Benim Adım:" + hayvan.Ad + " Çıkardığım ses:");
             hayvan.SesCikar();
+            Console.WriteLine("Yaşım:" + hayvan.Yas);
             Console.WriteLine();
         }
     }

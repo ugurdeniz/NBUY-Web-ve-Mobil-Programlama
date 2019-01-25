@@ -12,10 +12,26 @@ namespace _13_Polymorphism
         {
             _icgudu = "avlan,beslen";
             Ad = "hayvan";
+            _yas = 0;
         }
         protected string _icgudu;
+        protected int _yas;
 
         public string Ad { get; protected set; }
+
+        public virtual int Yas{
+            get
+            {
+                return _yas;
+            }
+            set
+            {
+                if(value>=0 && value<=100)
+                {
+                    _yas = value;
+                }
+            }
+        }
         public virtual void SesCikar()
         {
             Console.WriteLine("Hırrrrrrr");

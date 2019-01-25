@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\OOP\14_Abstraction\bin\Debug\14_Abstraction.exe.config
+C:\Users\osmanyazici\Desktop\OOP\14_Abstraction\bin\Debug\14_Abstraction.exe
+C:\Users\osmanyazici\Desktop\OOP\14_Abstraction\bin\Debug\14_Abstraction.pdb
+C:\Users\osmanyazici\Desktop\OOP\14_Abstraction\obj\Debug\14_Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\OOP\14_Abstraction\obj\Debug\14_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\14_Abstraction\obj\Debug\14_Abstraction.exe
+C:\Users\osmanyazici\Desktop\OOP\14_Abstraction\obj\Debug\14_Abstraction.pdb

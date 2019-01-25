@@ -1,0 +1,7 @@
+C:\Users\osmanyazici\Desktop\OOP\Struct\bin\Debug\Struct.exe.config
+C:\Users\osmanyazici\Desktop\OOP\Struct\bin\Debug\Struct.exe
+C:\Users\osmanyazici\Desktop\OOP\Struct\bin\Debug\Struct.pdb
+C:\Users\osmanyazici\Desktop\OOP\Struct\obj\Debug\Struct.csprojResolveAssemblyReference.cache
+C:\Users\osmanyazici\Desktop\OOP\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\osmanyazici\Desktop\OOP\Struct\obj\Debug\Struct.exe
+C:\Users\osmanyazici\Desktop\OOP\Struct\obj\Debug\Struct.pdb
